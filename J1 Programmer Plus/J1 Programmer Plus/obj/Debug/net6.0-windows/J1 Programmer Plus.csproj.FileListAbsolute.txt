@@ -1,0 +1,27 @@
+C:\Users\Financeiro\source\repos\J1 Programmer Plus\J1 Programmer Plus\bin\Debug\net6.0-windows\J1 Programmer Plus.exe
+C:\Users\Financeiro\source\repos\J1 Programmer Plus\J1 Programmer Plus\bin\Debug\net6.0-windows\J1 Programmer Plus.deps.json
+C:\Users\Financeiro\source\repos\J1 Programmer Plus\J1 Programmer Plus\bin\Debug\net6.0-windows\J1 Programmer Plus.runtimeconfig.json
+C:\Users\Financeiro\source\repos\J1 Programmer Plus\J1 Programmer Plus\bin\Debug\net6.0-windows\J1 Programmer Plus.dll
+C:\Users\Financeiro\source\repos\J1 Programmer Plus\J1 Programmer Plus\bin\Debug\net6.0-windows\J1 Programmer Plus.pdb
+C:\Users\Financeiro\source\repos\J1 Programmer Plus\J1 Programmer Plus\bin\Debug\net6.0-windows\System.IO.Ports.dll
+C:\Users\Financeiro\source\repos\J1 Programmer Plus\J1 Programmer Plus\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\Financeiro\source\repos\J1 Programmer Plus\J1 Programmer Plus\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\Financeiro\source\repos\J1 Programmer Plus\J1 Programmer Plus\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\Financeiro\source\repos\J1 Programmer Plus\J1 Programmer Plus\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\Financeiro\source\repos\J1 Programmer Plus\J1 Programmer Plus\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\Financeiro\source\repos\J1 Programmer Plus\J1 Programmer Plus\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\System.IO.Ports.dll
+C:\Users\Financeiro\source\repos\J1 Programmer Plus\J1 Programmer Plus\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.IO.Ports.dll
+C:\Users\Financeiro\source\repos\J1 Programmer Plus\J1 Programmer Plus\obj\Debug\net6.0-windows\J1 Programmer Plus.csproj.AssemblyReference.cache
+C:\Users\Financeiro\source\repos\J1 Programmer Plus\J1 Programmer Plus\obj\Debug\net6.0-windows\J1_Programmer_Plus.Form1.resources
+C:\Users\Financeiro\source\repos\J1 Programmer Plus\J1 Programmer Plus\obj\Debug\net6.0-windows\J1_Programmer_Plus.Properties.Resources.resources
+C:\Users\Financeiro\source\repos\J1 Programmer Plus\J1 Programmer Plus\obj\Debug\net6.0-windows\J1 Programmer Plus.csproj.GenerateResource.cache
+C:\Users\Financeiro\source\repos\J1 Programmer Plus\J1 Programmer Plus\obj\Debug\net6.0-windows\J1 Programmer Plus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Financeiro\source\repos\J1 Programmer Plus\J1 Programmer Plus\obj\Debug\net6.0-windows\J1 Programmer Plus.AssemblyInfoInputs.cache
+C:\Users\Financeiro\source\repos\J1 Programmer Plus\J1 Programmer Plus\obj\Debug\net6.0-windows\J1 Programmer Plus.AssemblyInfo.cs
+C:\Users\Financeiro\source\repos\J1 Programmer Plus\J1 Programmer Plus\obj\Debug\net6.0-windows\J1 Programmer Plus.csproj.CoreCompileInputs.cache
+C:\Users\Financeiro\source\repos\J1 Programmer Plus\J1 Programmer Plus\obj\Debug\net6.0-windows\J1 Programmer Plus.csproj.CopyComplete
+C:\Users\Financeiro\source\repos\J1 Programmer Plus\J1 Programmer Plus\obj\Debug\net6.0-windows\J1 Programmer Plus.dll
+C:\Users\Financeiro\source\repos\J1 Programmer Plus\J1 Programmer Plus\obj\Debug\net6.0-windows\refint\J1 Programmer Plus.dll
+C:\Users\Financeiro\source\repos\J1 Programmer Plus\J1 Programmer Plus\obj\Debug\net6.0-windows\J1 Programmer Plus.pdb
+C:\Users\Financeiro\source\repos\J1 Programmer Plus\J1 Programmer Plus\obj\Debug\net6.0-windows\J1 Programmer Plus.genruntimeconfig.cache
+C:\Users\Financeiro\source\repos\J1 Programmer Plus\J1 Programmer Plus\obj\Debug\net6.0-windows\ref\J1 Programmer Plus.dll

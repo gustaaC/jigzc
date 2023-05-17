@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32516.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "J1 Programmer Plus", "J1 Programmer Plus\J1 Programmer Plus.csproj", "{172C98A0-4490-4619-9F87-1735F72B8776}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Realtracker program", "Realtracker program\Realtracker program.vdproj", "{9B5DB72F-BFB5-4900-ABD3-9B441AEABBEA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{172C98A0-4490-4619-9F87-1735F72B8776}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{172C98A0-4490-4619-9F87-1735F72B8776}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{172C98A0-4490-4619-9F87-1735F72B8776}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{172C98A0-4490-4619-9F87-1735F72B8776}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B5DB72F-BFB5-4900-ABD3-9B441AEABBEA}.Debug|Any CPU.ActiveCfg = Debug
+		{9B5DB72F-BFB5-4900-ABD3-9B441AEABBEA}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2374E6FA-8652-4573-A6DB-49044046700F}
+	EndGlobalSection
+EndGlobal
